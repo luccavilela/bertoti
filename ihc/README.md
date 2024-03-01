@@ -11,9 +11,18 @@ Quando se clica no nome de alguma matéria, aparecem setas vermelhas em todas as
 ![image](https://github.com/luccavilela/bertoti/assets/126621831/ceb3a40e-849d-43a9-8342-9080817828b0)
 
 # Prevenção de Erros
-Ao clicar no botão do WebSai, é aberto uma página vazia, o erro não foi evitado.
+Ao clicar no botão do WebSai, é aberto uma página não existente, o erro não foi evitado.
 ![image](https://github.com/luccavilela/bertoti/assets/126621831/e06f8231-7ee6-4774-8157-6888a4dfe017)
-![image](https://github.com/luccavilela/bertoti/assets/126621831/eb66c503-d3ca-4ad6-a64c-905402b3501d)
+![image](https://github.com/luccavilela/bertoti/assets/126621831/0fd6fd0a-9210-4b42-a5df-1a4d0abe1d9e)
+
+# Ajudar o usuário a reconhecer, diagnosticar e restaurar o sistema de erros.
+Ao clicar no botão Inova, é aberto uma página vazia, sem tratamento nenhum de erro.
+![image](https://github.com/luccavilela/bertoti/assets/126621831/e06f8231-7ee6-4774-8157-6888a4dfe017)
+![image](https://github.com/luccavilela/bertoti/assets/126621831/823d481b-ecbf-4653-a6d3-dc0f44681ac1)
+
+# Flexibilidade e Eficiência do uso
+Caso o usuário esteja no final da longa página no site da prefeitura, ele pode clicar no "voltar para o topo" para pegar um atalho e ir direto para o começo do site.
+![image](https://github.com/luccavilela/bertoti/assets/126621831/4efeeb2c-6460-4d40-aad6-74ac4e4280b0)
 
 
 
